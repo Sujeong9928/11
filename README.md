@@ -53,8 +53,7 @@
 - **특수 버튼 스타일링**: `AC`, `DEL` 등의 특수 버튼은 색상을 다르게 설정하여 주요 기능을 강조합니다.
 
 ## 동작 화면
-![계산기](https://github.com/user-attachments/assets/3d1b5eec-bf74-465f-952b-4bfffff0e7bc)
-
+![계산기](https://github.com/user-attachments/assets/ad0e7fa6-f129-42d6-a018-9934e59a3df1)
 ## 브랜치 전략
 
 이 프로젝트는 **Git Flow**에 기반하여 `main`과 `develop` 브랜치를 사용해 관리합니다.
